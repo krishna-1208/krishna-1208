@@ -1,0 +1,15 @@
+1. react-router-dom
+2. react-currency-format
+3. material ui (now mui)
+4. StateProvider and Reducer
+5. react-context api
+6. react state hooks
+7. firebase for authentication
+8. deploy app using firebase
+
+
+-> Choose the folder of your choice.
+-> Inside vscode terminal, write : npx create-react-app . 
+    Here, npx will create an instance of react app and . represents that it will be created in the same folder without creating any
+    additional folder inside.
+-> 

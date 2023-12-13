@@ -1,0 +1,9 @@
+1. React Setup
+2. eShop Header
+3. eShop Home Page
+4. eShop Checkout Page
+5. State Provider, Reducer, useReducer Hook
+6. Add to Cart, Remove from Cart using React Hook
+7. Login Page
+8. Authentication using Firebase
+9. Deploying our App.
