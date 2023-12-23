@@ -1,0 +1,6 @@
+{
+    "notebook.formatOnCellExecution": true,
+    "notebook.formatOnSave.enabled": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
